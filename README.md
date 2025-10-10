@@ -5,6 +5,12 @@ How many **Power Crystals** you have left?
 Or how much battery each item has?  
 This mod shows you everything you need — clearly and instantly.
 
+#
+
+**Note:**  
+If you encounter any issue or bug, please report it here:  
+[https://github.com/vesnum/Owned-Items-R.E.P.O-Mod-/issues](https://github.com/vesnum/Owned-Items-R.E.P.O-Mod-/issues)
+
 ---
 
 ## How It Works
@@ -70,4 +76,5 @@ to display the new item emojis.
 
 ![Preview2](images/preview2.jpg)
 #
+
 
