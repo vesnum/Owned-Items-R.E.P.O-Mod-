@@ -3,7 +3,7 @@
 Ever forgot what you purchased in the previous run?  
 How many **Power Crystals** you have left?  
 Or how much battery each item has?  
-This mod shows you everything you need — clearly and instantly.
+This usefull mod shows you everything you need — clearly and instantly.
 
 #
 
@@ -76,5 +76,6 @@ to display the new item emojis.
 
 ![Preview2](images/preview2.jpg)
 #
+
 
 
