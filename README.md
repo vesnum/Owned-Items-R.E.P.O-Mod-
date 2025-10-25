@@ -20,7 +20,7 @@ If the mod is **enabled** and running without any issues:
 - **Page 0:** The original **Taxman Shop** screen.
 - **Changing Pages:** You can either press the **Left/Right Arrow** keys on your keyboard, or touch the arrows directly on the screen.
 
-![Changing Page](https://i.ibb.co/23LqtJZb/changingpage.gif)
+![Changing Page](images/changingpage.gif)
 #
 - **Item Listing:** You'll now see all the items you own, displayed with icons.
   Each page shows up to **11 items**, with values shown as `X / Y` next to each.
@@ -39,7 +39,7 @@ If the mod is **enabled** and running without any issues:
   - 🟡 **Yellow I** → Remaining battery bars.
   - ⚫ **Black I** → Used battery bars.
 
-![Item Battery](https://i.ibb.co/NdtPypFw/battery-1.gif)
+![Item Battery](images/battery_1.gif)
 #
 ---
 
@@ -59,7 +59,7 @@ It only **temporarily overrides** the `emojis.material` with `emojisplus.materia
 `Canvas/Mask/Text (TMP)` — and **only while in the Shop** —
 to display the new item emojis.
 
-![New Item Icons](https://i.ibb.co/F4XC5CKv/itemicons.png)
+![New Item Icons](images/itemicons.png)
 
 ---
 
@@ -74,3 +74,4 @@ to display the new item emojis.
 
 ![Preview2](https://i.ibb.co/Jw91bL0x/preview2.jpg)
 #
+
