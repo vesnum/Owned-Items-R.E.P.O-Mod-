@@ -1,8 +1,8 @@
 {
     "name": "Owned_Items",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "",
-    "description": "This mod shows your owned items info on the monitor while in the Shop.",
+    "description": "Displays information about purchased items on the Shop monitor.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
