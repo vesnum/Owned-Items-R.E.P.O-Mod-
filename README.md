@@ -72,6 +72,7 @@ to display the new item emojis.
 
 ![Preview1](https://i.ibb.co/hxckpZV9/preview.gif)
 
-![Preview2](https://i.ibb.co/Jw91bL0x/preview2.jpg)
+![Preview2](images/preview2.jpg)
 #
+
 
